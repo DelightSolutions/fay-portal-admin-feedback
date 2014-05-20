@@ -8,7 +8,7 @@ O.K. Központ portál rendszer admin felületéhez tartozó issue tracker
 
 #### Build 0520 változtatásai
 
-!! Ez a verzió az adatbázis resetelésével jár, ezért a felhasználóknak újból kell regisztrálniuk
+**!!! Ez a verzió az adatbázis resetelésével jár, ezért a felhasználóknak újból kell regisztrálniuk**
 
 * Exportálás funkció hozzáadva
 * Működő menü aktív állapotok
