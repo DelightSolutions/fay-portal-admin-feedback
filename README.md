@@ -4,8 +4,18 @@ Portál Admin rendszer
 O.K. Központ portál rendszer admin felületéhez tartozó issue tracker
 
 ## Hasznos információk
-* Kitelepített verzió: Build 0516
+* Kitelepített verzió: Build 0520
 
+#### Build 0520 változtatásai
+
+!! Ez a verzió az adatbázis resetelésével jár, ezért a felhasználóknak újból kell regisztrálniuk
+
+* Exportálás funkció hozzáadva
+* Működő menü aktív állapotok
+* Intézmény szerkesztési hiba javítva
+* Több elemű mező kitöltő control hozzáadva
+* Historyn belül megjelenik a módosítás dátuma
+* Rendezés + keresés ajaxosítva, működik
 
 #### Build 0516 változtatásai
 * Megjelentek az angol változónevek fordításai
