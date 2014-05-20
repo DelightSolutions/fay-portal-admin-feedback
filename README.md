@@ -17,6 +17,8 @@ O.K. Központ portál rendszer admin felületéhez tartozó issue tracker
 * Historyn belül megjelenik a módosítás dátuma
 * Rendezés + keresés ajaxosítva, működik
 
+--
+
 #### Build 0516 változtatásai
 * Megjelentek az angol változónevek fordításai
 * Ajax alapú oszlop rendezés, táblázat lapozást (50 elem felett)
