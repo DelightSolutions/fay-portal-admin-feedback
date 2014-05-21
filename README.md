@@ -4,7 +4,16 @@ Portál Admin rendszer
 O.K. Központ portál rendszer admin felületéhez tartozó issue tracker
 
 ## Hasznos információk
-* Kitelepített verzió: **Build 0520**
+* Kitelepített verzió: **Build 0521**
+
+#### Build 0521 változtatásai
+
+_Ez a build egy hotfix_
+
+Az alábbi hibák lettek javítva:
+
+* [Bizonyos fieldek nem működnek az intézményi adatok rögzítésénél](https://github.com/DelightSolutions/fay-portal-admin-feedback/issues/12)
+* [Intézmény megtekintése](https://github.com/DelightSolutions/fay-portal-admin-feedback/issues/11)
 
 #### Build 0520 változtatásai
 
