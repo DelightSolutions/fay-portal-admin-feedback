@@ -4,7 +4,19 @@ Portál Admin rendszer
 O.K. Központ portál rendszer admin felületéhez tartozó issue tracker
 
 ## Hasznos információk
-* Kitelepített verzió: **Build 0521**
+* Kitelepített verzió: **Build 0528**
+
+#### Build 0528 változtatásai
+
+- A portál ettől a verziótól már tartalmazza a jogosultság kezelést. A jogosultság szerkesztő hiánya miatt minden felhasználó superuser jogokkal rendelkezik, azaz semelyik tevékenység nem tiltott.
+- Kibővített esemény kezelés
+  * Események
+  * Felszerelések
+  * Tevékenységek
+  * Reprezentációs eszközök
+  * Megválaszolandó kérdések
+  * Szóróajándékok
+- Néhány megjelenésbeli változtatás, finomítás
 
 #### Build 0521 változtatásai
 
