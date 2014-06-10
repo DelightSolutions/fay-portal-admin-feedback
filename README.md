@@ -4,7 +4,32 @@ Portál Admin rendszer
 O.K. Központ portál rendszer admin felületéhez tartozó issue tracker
 
 ## Hasznos információk
-* Kitelepített verzió: **Build 0528**
+* Kitelepített verzió: **Build 0610**
+
+#### Build 0610 változtatásai
+
+- Új modulok:
+  * Jogosultság sablonok
+  * Tréning
+  * Felhasználó kezelés
+  * Rendszerüzenetek
+  * Nyelvek
+  * GYIK
+  * Alkalmazások 
+  * API
+- Az API jelenleg nem elérhető, az API dokumentáció viszont megtalálható a portál adminban.
+- GYIK többnyelvűsítve
+- Felhasználó lértehozása egyelőre nem a végleges működéssel valósul meg
+- Létrehozhatóak az adminhoz kapcsolódó alkalmazások, melyeknél az API kulcs generálása automatikus
+
+## API
+
+*Néhány metódus esetében a hiányzó mögöttes tartalom miatt DUMMY adatokat ad vissza az API*
+
+- Adható OK Pont
+- Létrehozható User aktivitás
+- Bejelentkezés
+- API kulcs alapú authentikáció, esemény és pontszám rögzítés
 
 #### Build 0528 változtatásai
 
