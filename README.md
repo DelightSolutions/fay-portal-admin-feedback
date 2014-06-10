@@ -8,6 +8,8 @@ O.K. Központ portál rendszer admin felületéhez tartozó issue tracker
 
 ## Build 0610 változtatásai
 
+**06.10 22:00 Az API már elérhető, néhány előnézeti funkció nem működik**
+
 - Új modulok:
   * Jogosultság sablonok
   * Tréning
@@ -17,7 +19,7 @@ O.K. Központ portál rendszer admin felületéhez tartozó issue tracker
   * GYIK
   * Alkalmazások 
   * API
-- Az API jelenleg nem elérhető, az API dokumentáció viszont megtalálható a portál adminban.
+- Az API elérhető, az API dokumentáció viszont megtalálható a portál adminban.
 - GYIK többnyelvűsítve
 - Felhasználó lértehozása egyelőre nem a végleges működéssel valósul meg
 - Létrehozhatóak az adminhoz kapcsolódó alkalmazások, melyeknél az API kulcs generálása automatikus
