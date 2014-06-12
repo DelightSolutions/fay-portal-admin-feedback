@@ -4,7 +4,23 @@ Portál Admin rendszer
 O.K. Központ portál rendszer admin felületéhez tartozó issue tracker
 
 ## Hasznos információk
-* Kitelepített verzió: **Build 0610**
+* Kitelepített verzió: **Build 0612**
+
+## Build 0612 változtatásai
+
+- Új modulok:
+  * Cikkek
+  * Cikk kategóriák
+  * Statikus oldalak
+  * Galériák (nem teljes a működés ebben a verzióban)
+  * Videó galériák
+  * WYSIWYG editor első verziója
+- Videó galériák esetében az egyes elemeket beágyazott form generálja
+
+##### API
+
+- A portálon található API dokumentációban működik az előnézeti funkció
+- Dokumentáció CSS javítások
 
 ## Build 0610 változtatásai
 
