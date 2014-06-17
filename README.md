@@ -4,7 +4,14 @@ Portál Admin rendszer
 O.K. Központ portál rendszer admin felületéhez tartozó issue tracker
 
 ## Hasznos információk
-* Kitelepített verzió: **Build 0612**
+* Kitelepített verzió: **Build 0617**
+
+## Build 0617 változtatásai
+
+- Táblázat oszlopok elrejtése / mutatása
+- Üzenetküldés
+- Api módosítások
+- Jogosultságrendszer egy korábbi verzióban élesítve
 
 ## Build 0612 változtatásai
 
