@@ -4,7 +4,15 @@ Portál Admin rendszer
 O.K. Központ portál rendszer admin felületéhez tartozó issue tracker
 
 ## Hasznos információk
-* Kitelepített verzió: **Build 0617**
+* Kitelepített verzió: **Build 0619**
+
+## Build 0619 változtatásai
+
+- Kvízek
+- Kvíz kérdések
+- API Munkamenetek
+- Egy felhasználónak már van neme is
+- API továbbfejlesztés
 
 ## Build 0617 változtatásai
 
